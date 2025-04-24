@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -273,6 +275,3 @@
   0% { background-position: 200% 0; }
   100% { background-position: -200% 0; }
 }
-
-/* Import fonts - Times New Roman (system font) */
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
